@@ -1,0 +1,30 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "the odin project : restaurant project exercise",
+  "private": "true",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack  --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praetorian-origin/restaurant-js.git"
+  },
+  "author": "Cédric Duriez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praetorian-origin/restaurant-js/issues"
+  },
+  "homepage": "https://github.com/Praetorian-origin/restaurant-js#readme",
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "style-loader": "^1.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.0"
+  }
+}

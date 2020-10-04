@@ -1,0 +1,33 @@
+
+#contact-div {
+    display: flex;
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+    
+}
+
+
+#contact-div form {
+    width: 100%;
+    text-align: center;
+}
+
+
+#contact-div img {
+    max-width: 300px;
+}
+
+#location {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="submit"]{
+    cursor: pointer;
+    background-color:white;
+    border-radius: 10%;
+    padding: 20px 60px;
+    margin-top: 20px;
+}

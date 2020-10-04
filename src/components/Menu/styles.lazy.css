@@ -1,0 +1,20 @@
+.food-menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  
+ 
+}
+.food-menu img {
+    max-width: 200px;
+}
+
+.food-item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+#menu-div {
+    margin: auto;
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+#home-div img {
+    max-height: 500px;
+    margin: auto;
+    display: block;
+
+}
+#home-div p {
+    font-family: 'Courgette', cursive;
+    font-size: 37px;
+}
